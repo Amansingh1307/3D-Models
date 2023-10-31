@@ -1,0 +1,14 @@
+.container{
+    width: 450px;
+    border: 5px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item {
+    background-color: #008b8b;
+    border: 5px solid black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    flex-grow: 1;
+}
